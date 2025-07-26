@@ -17,4 +17,3 @@ const App = () => {
   );
 };
 export default App;
-import reeact ,(useEfffect)
